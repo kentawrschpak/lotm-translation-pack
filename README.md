@@ -25,5 +25,4 @@
 *   [📈 Сюжетные вехи и динамика мира](09_story_milestones.md) 
 *   [🏛️ Исторический контекст и эпохи](10_historical_context.md) 
 
-
 <!-- Файл проверен: lotm-translation-pack/README.md -->

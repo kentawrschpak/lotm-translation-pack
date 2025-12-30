@@ -1,4 +1,4 @@
 [📚 Оглавление](README.md)
 
 ________________________________________
-<!-- Файл проверен: lotm-translation-pack/05_artifacts_and_items.md -->
+<!-- Файл проверен: lotm-translation-pack/08_translator_directives.md -->
